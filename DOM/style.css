@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+}
+.heading{
+    color: crimson;
+}
+.Python-container{
+    color:darkorange;
+}
+
+#db-li{
+    color:lime;
+}
+.db_list{
+    color:darkorchid;
+}
+
+li {
+    list-style: none;
+}
+

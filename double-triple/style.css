@@ -1,0 +1,14 @@
+#floatingTextarea, #input-field{
+    text-align: center;
+    font-size:larger;
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+}
+section{
+    background-color:darkgrey;
+    padding: 50px;
+    width: 1050px;
+    margin: auto;
+    border-radius: 10px;
+}
